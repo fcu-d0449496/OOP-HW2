@@ -6,7 +6,7 @@ public class Break {
 		// TODO 自動產生的方法 Stub
 		int i;
 		for(i=0;i<5;i++)
-		{
+		{ 
 			if(i==2)
 				break;
 			System.out.println(i);

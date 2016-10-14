@@ -25,5 +25,4 @@ public class StringComparator {
 			System.out.println("The two strings are not the same.");
 		}
 	}
-
 }
